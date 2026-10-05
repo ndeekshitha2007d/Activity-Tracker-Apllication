@@ -1,0 +1,22 @@
+# Built applications & compiled outputs
+*.apk
+*.aab
+/build/
+app/build/
+/captures
+
+# Gradle build cache & native builds
+.gradle/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration files (PC-specific SDK paths)
+local.properties
+
+# Android Studio & IntelliJ IDE workspace files
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
